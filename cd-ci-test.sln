@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateTheNameModelBinding", "ValidateTheNameModelBinding.csproj", "{D8AEFFBA-8C1E-AFB4-CCC2-7C98E6C825E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "..\UnitTestProject1\UnitTestProject1.csproj", "{2764ACA7-9A23-4505-A26E-DCA747C552F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{AA4E3EBE-DE9E-4690-B679-68F4F0A17FD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,10 +16,10 @@ Global
 		{D8AEFFBA-8C1E-AFB4-CCC2-7C98E6C825E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8AEFFBA-8C1E-AFB4-CCC2-7C98E6C825E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8AEFFBA-8C1E-AFB4-CCC2-7C98E6C825E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2764ACA7-9A23-4505-A26E-DCA747C552F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2764ACA7-9A23-4505-A26E-DCA747C552F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2764ACA7-9A23-4505-A26E-DCA747C552F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2764ACA7-9A23-4505-A26E-DCA747C552F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4E3EBE-DE9E-4690-B679-68F4F0A17FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4E3EBE-DE9E-4690-B679-68F4F0A17FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4E3EBE-DE9E-4690-B679-68F4F0A17FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4E3EBE-DE9E-4690-B679-68F4F0A17FD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
